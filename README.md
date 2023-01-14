@@ -417,7 +417,7 @@
 
 ## Унесці паляпшэнні
 
-Калі ласка, спачатку прачытайце [інструкцыю]((https://github.com/hleb-kastseika/belarusian-go-dictionary/blob/master/contributing.md)) перш чым прапаноўваць паляпшэнні.
+Калі ласка, спачатку прачытайце [інструкцыю](https://github.com/hleb-kastseika/belarusian-go-dictionary/blob/master/contributing.md) перш чым прапаноўваць паляпшэнні.
 
 ## Ліцэнзія
 
