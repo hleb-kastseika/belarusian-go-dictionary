@@ -1,10 +1,9 @@
-# Contribution Guidelines
+# Рэкамендацыі для прапаноў
 
-Please ensure your pull request adheres to the following guidelines:
+Пераканайцеся, што ваш пул рэквест адпавядае наступным рэкамендацыям:
 
-- Since the communities are listed in alphabetical order by name, make sure you add your changes in the correct place
-- Check your spelling and grammar
-- The pull request and commit should have a useful title
-- Be concise
+- Тэрміны пералічаны ў алфавітным парадку. Таму калі нешта дадаеце, пераканайцеся, што парадак правільны
+- Праверце правапіс і граматыку
+- Назва пул рэквеста і паведамленне ў каміце павінны быць простымі і зразумелымі
 
-Thank you for your contribution!
+Дзякуй вялікі за дапамогу!

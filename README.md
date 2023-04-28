@@ -424,10 +424,8 @@
 
 ## Унесці паляпшэнні
 
-Калі ласка, спачатку прачытайце [інструкцыю](https://github.com/hleb-kastseika/belarusian-go-dictionary/blob/master/contributing.md) перш чым прапаноўваць паляпшэнні.
+Калі ласка, прытрымлівайцеся [гэтых рэкамендацый](https://github.com/hleb-kastseika/belarusian-go-dictionary/blob/master/contributing.md) прапануючы паляпшэнні. Загадзя дзякуй!
 
 ## Ліцэнзія
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Наколькі гэта магчыма ў адпаведнасці з законам, [Глеб Касцейка](https://github.com/hleb-kastseika) адмовіўся ад усіх аўтарскіх і сумежных правоў на гэтую працу.
+[![CC BY 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)](https://creativecommons.org/licenses/by/4.0/)
